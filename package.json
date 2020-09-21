@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durganp1/pizza-hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/durganp1/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/durganp1/pizza-hunt#readme"
 }
